@@ -1,35 +1,29 @@
-Shravan Anand
-M.Sc. Robotics, Cognition, Intelligence @ Technical University of Munich
+Hi, I'm Shravan Anand 👋
+M.Sc. Robotics, Cognition, Intelligence @ TUM
+B.Eng. Mechatronics
 
-About Me
-I am currently pursuing a Master's degree in Robotics, Cognition, Intelligence at the Technical University of Munich after completing a B.Eng. in Mechatronics.
-
-My background lies primarily in mechanical design, finite element analysis, product development and mechatronic systems. Through academic and industrial projects, I gained experience in CAD development, system integration, manufacturing processes and engineering design.
-
-My current interests focus on:
-
+Interests
 Robotics
 Manipulation
 Humanoid Robotics
 Autonomous Systems
 Mechanical Design
-FEA & Structural Optimization
+FEM / FEA
 Mechatronic Systems
-Human-Robot Interaction
 Featured Projects
 Ball Balancing Platform
-Development of an automated ball balancing system using sensing, actuation and PID control.
+Mechanical design and CAD development of an automated ball balancing system.
 
 Automated Battery Sorting & Charging System
-Development of a modular system for detecting, sorting and charging AA/AAA batteries.
+Development of a modular system for sorting and charging AA/AAA batteries.
 
 Uplift - Semi-Active Standing Assistance Device
-Development of a portable mobility assistance device supporting the sit-to-stand movement through a semi-active mechanism.
+Portable standing assistance device combining mobility support and mechanical assistance. Team Lead and Lead CAD Design
 
 Currently Learning
 Machine Learning
-Fundamentals of AI
-Introduction to Deep Learning
 Computer Vision
 Robot Control
 Autonomous Systems
+Tools
+Fusion 360 · CatiaV5 · Onshape · MATLAB · Python · Ansys · Ansa · Hypermesh · FEM · Topologie-Optimierung · InfinitFORM · Rafinex · Simsolid · Synera · LTSpice · Process Simulate
