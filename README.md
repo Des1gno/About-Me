@@ -1,4 +1,3 @@
-<img width="886" height="2268" alt="image" src="https://github.com/user-attachments/assets/3a2f6f45-13f4-4052-b452-24a04da900ba" />
 Shravan Anand
 M.Sc. Robotics, Cognition, Intelligence @ Technical University of Munich
 
